@@ -4,13 +4,13 @@ Language: Portugues Brazil
 
 <h1> Introduação<h1>
 
-Este repositorio é primeiro desafio do bootcamp eduzz conduzido pela "DIO"
+<p>Este repositorio é primeiro desafio do bootcamp eduzz conduzido pela "DIO"
 
 Objetivo desse desafio era criar o primeiro repositorio no github utilizando o git do meu computador.
 
 Como parte da inciativa, vou colocar abaixo orientações de como subir o seu repositorio utilizando o Ubuntu na versão 20.04, fazendo algumas correções referente a explicação do curso da "Dio"
 
-**Importante: parto do presuposto que você já tenha uma conta no github com o repositorio criado.** 
+**Importante: parto do presuposto que você já tenha uma conta no github com o repositorio criado.** <p>
 
 <h2>Instalando o Git (Atualizando)<h2>
 
