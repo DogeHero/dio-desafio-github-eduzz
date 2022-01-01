@@ -2,7 +2,7 @@
 
 Language: Portugues Brazil
 
-# Introduação <h1>
+# Introduação
 
 Este repositorio é primeiro desafio do bootcamp eduzz conduzido pela "DIO"
 
@@ -12,8 +12,7 @@ Como parte da inciativa, decidi colocar nesse repositorio orientações de como 
 
 **Importante: Estou paratindo do presuposto que você já tenha uma conta no github com o repositorio criado.**
 
-## Instalando o Git (Atualizando O Git)
-
+##Instalando o Git (Atualizando O Git)
 Por padrão, o git já vem instalado no Ubuntu, porem em sua versão básica. Então precisamos atualizar ele para a versão mais atual, 2.33 ou superior.
 
 Antes de começar espero que você já tenha criado uma conta no github, nesse passo a passo não iremos abordar como criar lá. 
