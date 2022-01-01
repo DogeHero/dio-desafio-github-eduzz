@@ -94,7 +94,7 @@ apt git --version
 ```
 
 Pronto, agora vamos subir o primeiro arquivo no github. Caso a versão ainda não esteja correta sugiro se comunicar comigo nos comentarios.
-
+##
 ## Subindo arquivos no Github
 
 Primeira coisa é decidir, na seu computador, onde você quer colocar o seu arquivo , pode ser em qualquer lugar, porem você precisa primeiro navegar para a pasta.
