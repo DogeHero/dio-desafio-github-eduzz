@@ -6,11 +6,11 @@ Language: Portugues Brazil
 
 Este repositorio é primeiro desafio do bootcamp eduzz conduzido pela "DIO"
 
-Objetivo desse desafio era criar o primeiro repositorio no github utilizando o git do meu computador.<p>
+Objetivo desse desafio era criar o primeiro repositorio no github utilizando o git do meu computador.
 
-Como parte da inciativa, vou colocar abaixo orientações de como subir o seu repositorio utilizando o Ubuntu na versão 20.04, fazendo algumas correções referente a explicação do curso da "Dio"<p>
+Como parte da inciativa, decidi colocar nesse repositorio orientações de como subir o seu repositorio utilizando o Ubuntu na versão 20.04, fazendo algumas correções referente a explicação do curso da "DIO".
 
-**Importante: parto do presuposto que você já tenha uma conta no github com o repositorio criado.** <p>
+**Importante: Estou paratindo do presuposto que você já tenha uma conta no github com o repositorio criado.**
 
 ## Instalando o Git (Atualizando O Git) <h2>
 
