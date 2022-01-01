@@ -31,7 +31,7 @@ Abra o terminal no Ubuntu, utilizando o atalho no teclado *Ctrl + Alt + T*.
 Vamos verificar se a versão git do seu computado é a 2.33 ou superior. Caso não sejá, será necessaria atualizala, seguindo os passos abaixo.
 
 
-### **Passo 2** <h3>
+### **Passo 2**	
 
 Digite o código abaixo, para saber qual a versão do seu git.
 
