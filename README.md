@@ -11,7 +11,7 @@ Objetivo desse desafio era criar o primeiro repositorio no github utilizando o g
 Como parte da inciativa, decidi colocar nesse repositorio orientações de como subir o seu repositorio utilizando o Ubuntu na versão 20.04, fazendo algumas correções referente a explicação do curso da "DIO".
 
 **Importante: Estou paratindo do presuposto que você já tenha uma conta no github com o repositorio criado.**
-
+##
 ## Instalando o Git (Atualizando O Git)
 Por padrão, o git já vem instalado no Ubuntu, porem em sua versão básica. Então precisamos atualizar ele para a versão mais atual, 2.33 ou superior.
 
@@ -23,7 +23,7 @@ Vamos verificar qual versão do git tem no seu computador, com o códiogo abaixo
 
 Não é necessario sar o git bash no Ubuntu.
 
-### **Passo 1** <h3>
+### **Passo 1**
 
 Abra o terminal no Ubuntu, utilizando o atalho no teclado *Ctrl + Alt + T*. 
 
@@ -42,7 +42,7 @@ Caso a sua versão seja 2.33 ou superior, vá para o passo 8. Se não, continue 
 
 Para atualizar a versão será necessario primeiro desinstalarmos a atual.
 
-### <h3> **Passo 3**
+###  **Passo 3**
 
 Digite o código abaixo para desinstalar o git atual. 
 
@@ -50,10 +50,12 @@ Digite o código abaixo para desinstalar o git atual.
 sudo apt remove git
 ```
 
+
+
 Agora, vamos instalar a versão correta, adicionando o repositorio mais atualizado do git.
 
 
-### <h3>**Passo 4**
+### **Passo 4**
 
 Para adicionar o repositorio mais atualizado do git, digite o código abaixo. 
 
@@ -62,7 +64,7 @@ $ add-apt-repository ppa:git-core/ppa'
 ```
 Agora é só atualizar os pacotes do computador para que na execução do código seja usado o novo repositorio.
 
-### <h3>**Passo 5**
+### **Passo 5**
 
 Digite o código abaixo para atualizar os pacotes do computador. 
 
@@ -72,7 +74,7 @@ apt update
 
 Agora que esta tudo atualizado vamos instalar o git, será insatalada a verssão mais atual.
 
-### <h3>**Passo 6** <>
+### **Passo 6** <>
 
 Digite o codigo abaixo, para instalar o git. 
 
@@ -83,7 +85,7 @@ apt install git
 Agora devemos estar com ele atualizado, vamos conferir.
 
 
-### <h3>**Passo 7**
+### **Passo 7**
 
 Digite o código abaixo, para verificar a versão do git após todos o passos.
 
@@ -101,20 +103,20 @@ Tem duas formas, via terminal  ou  via interface com terminal.
 
 Para facilitar, vamos usar um pouco da interface grafica, navegue até a pasta e clique com o botão direito
 
-### <h3>**Passo 8**
+### **Passo 8**
 
 Utilize o botão direito do mouse na pasta onde quer subir o seu primeiro arquivo, e selecione a opção **Abrir no terminal**.
  
 
 Já com o repositorio criado. Vamos criar incluir novos arquivos no repositorio, já criado
 
-### <h3>**Passo 9**
+### **Passo 9**
 
 Acesse o seu repositorio no github e clique no botão verde **Code** o copie a opção em Html.
 
 Vamos fazer um clone desse repositorio para subir novos arquivos de forma mais simples. Sem a necessidade de colocar um caminho, pois ele já esta setado.
 
-### <h3>**Passo 10** 
+### **Passo 10** 
 
 No terminal vamos clonar o repositorio, digite o código abaixo **não o executando**.
 
@@ -122,15 +124,15 @@ No terminal vamos clonar o repositorio, digite o código abaixo **não o executa
 git clone 
 ```
 
-### <h3>**Passo 11**
+### **Passo 11**
 
 Com o código acima colocado no terminal, de espaço e no teclado **Ctrl +  Shift + V**, para colar o endereço do repositorio, **agora pode executar**.
 
-### <h3>**Passo 12** 
+### **Passo 12** 
 
 Agora abra a pasta cloanada e coloque qualquer arquivo novo. Sejá pelo terminal  ou na interface com comando cd. 
 
-### <h3>**Passo 13** 
+### **Passo 13** 
 
 Adicione esse novo arquivo, utilizando o código abaixo
 
@@ -142,7 +144,7 @@ gi add *
 
 Agora só precisamos fazer o commit para deixar tudo certo e suir
 
-### <h3>**Passo 14**
+### **Passo 14**
 
 Vamos dar comit no nosso arquivo, copie o código abaixo, **não o execute**
 
@@ -150,7 +152,7 @@ Vamos dar comit no nosso arquivo, copie o código abaixo, **não o execute**
 git commit -m
 ```
 
-### <h3>**Passo 15**
+### **Passo 15**
 
 Coloque entre aspas o texto para identoficar esse novo commit. Agora **execute o programa**. Exemplo abaixo.
 
@@ -160,7 +162,7 @@ git commit -m "Novo texto"
 
 Finalmente, vamos subir ele
 
-### <h3>**Passo 16**
+### **Passo 16**
 
 Digite o codigo para subir a nova versão do código para o github
 
