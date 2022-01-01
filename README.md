@@ -1,4 +1,4 @@
-# dio-desafio-github-eduzz
+# Dio-desafio-github-eduzz
 
 Language: Portugues Brazil
 
@@ -6,11 +6,11 @@ Language: Portugues Brazil
 
 Este repositorio é primeiro desafio do bootcamp eduzz conduzido pela "DIO"
 
-#Objetivo desse desafio era criar o primeiro repositorio no github utilizando o git do meu computador.<p>
+Objetivo desse desafio era criar o primeiro repositorio no github utilizando o git do meu computador.<p>
 
-#Como parte da inciativa, vou colocar abaixo orientações de como subir o seu repositorio utilizando o Ubuntu na versão 20.04, fazendo algumas correções referente a explicação do curso da "Dio"<p>
+Como parte da inciativa, vou colocar abaixo orientações de como subir o seu repositorio utilizando o Ubuntu na versão 20.04, fazendo algumas correções referente a explicação do curso da "Dio"<p>
 
-#**Importante: parto do presuposto que você já tenha uma conta no github com o repositorio criado.** <p>
+**Importante: parto do presuposto que você já tenha uma conta no github com o repositorio criado.** <p>
 
 ## Instalando o Git (Atualizando) <h2>
 
@@ -24,7 +24,7 @@ Vamos verificar qual versão do git tem no seu computador, com o códiogo abaixo
 
 Não é necessario sar o git bash no Ubuntu.
 
-**Passo 1** - Abra o terminal no Ubuntu, utilizando o atalho no teclado *Ctrl + Alt + T*. 
+### **Passo 1** <h3> - Abra o terminal no Ubuntu, utilizando o atalho no teclado *Ctrl + Alt + T*. 
 
 Vamos verificar se a versão git do seu computado é a 2.33 ou superior. Caso não sejá, será necessaria atualizala, seguindo os passos abaixo.
 
@@ -41,9 +41,9 @@ Para atualizar a versão será necessario primeiro desinstalarmos a atual.
 
 **Passo 3** - Digite o código abaixo para desinstalar o git atual. 
 
-'''Linux
+´´´Linux
 sudo apt remove git
-'''
+´´´
 
 Agora, vamos instalar a versão correta, adicionando o repositorio mais atualizado do git.
 
