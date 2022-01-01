@@ -169,7 +169,7 @@ Digite o codigo para subir a nova versão do código para o github
 git push
 ```
 
-**Parabens você subiu o seu primeiro código no github
+**Parabens você subiu o seu primeiro código no github**
 
 
 
