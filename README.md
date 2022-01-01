@@ -2,17 +2,17 @@
 
 Language: Portugues Brazil
 
-<h1>Introduação
+# Introduação <h1>
 
-<p>Este repositorio é primeiro desafio do bootcamp eduzz conduzido pela "DIO"<p>
+#Este repositorio é primeiro desafio do bootcamp eduzz conduzido pela "DIO"
 
-<p>Objetivo desse desafio era criar o primeiro repositorio no github utilizando o git do meu computador.<p>
+#Objetivo desse desafio era criar o primeiro repositorio no github utilizando o git do meu computador.<p>
 
-<p>Como parte da inciativa, vou colocar abaixo orientações de como subir o seu repositorio utilizando o Ubuntu na versão 20.04, fazendo algumas correções referente a explicação do curso da "Dio"<p>
+#Como parte da inciativa, vou colocar abaixo orientações de como subir o seu repositorio utilizando o Ubuntu na versão 20.04, fazendo algumas correções referente a explicação do curso da "Dio"<p>
 
-**Importante: parto do presuposto que você já tenha uma conta no github com o repositorio criado.** <p>
+#**Importante: parto do presuposto que você já tenha uma conta no github com o repositorio criado.** <p>
 
-<h2>Instalando o Git (Atualizando)<h2>
+## Instalando o Git (Atualizando) <h2>
 
 Por padrão, o git já vem instalado no Ubuntu, porem em sua versão básica. Então precisamos atualizar ele para a versão mais atual, 2.33 ou superior.
 
@@ -31,9 +31,9 @@ Vamos verificar se a versão git do seu computado é a 2.33 ou superior. Caso n�
 
 **Passo 2** - Digite o código abaixo, para saber qual a versão do seu git.
 
-'''Linux
+~~~Linux
 git --version
-'''
+~~~
 
 Caso a sua versão seja 2.33 ou superior, vá para o passo 8. Se não, continue os com os passos abaixo.
 
