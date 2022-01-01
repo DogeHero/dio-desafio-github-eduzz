@@ -12,7 +12,7 @@ Como parte da inciativa, decidi colocar nesse repositorio orientações de como 
 
 **Importante: Estou paratindo do presuposto que você já tenha uma conta no github com o repositorio criado.**
 
-## Instalando o Git (Atualizando O Git) <h2>
+## Instalando o Git (Atualizando O Git)
 
 Por padrão, o git já vem instalado no Ubuntu, porem em sua versão básica. Então precisamos atualizar ele para a versão mais atual, 2.33 ou superior.
 
@@ -94,7 +94,7 @@ apt git --version
 
 Pronto, agora vamos subir o primeiro arquivo no github. Caso a versão ainda não esteja correta sugiro se comunicar comigo nos comentarios.
 
-## Subindo arquivos no Github<h2>
+## Subindo arquivos no Github
 
 Primeira coisa é decidir, na seu computador, onde você quer colocar o seu arquivo , pode ser em qualquer lugar, porem você precisa primeiro navegar para a pasta.
 
