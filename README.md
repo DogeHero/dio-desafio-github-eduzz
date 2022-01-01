@@ -24,12 +24,12 @@ Vamos verificar qual versão do git tem no seu computador, com o códiogo abaixo
 
 Não é necessario sar o git bash no Ubuntu.
 
-### **Passo 1** <h3> - Abra o terminal no Ubuntu, utilizando o atalho no teclado *Ctrl + Alt + T*. 
+### **Passo 1** <h3>- Abra o terminal no Ubuntu, utilizando o atalho no teclado *Ctrl + Alt + T*.<p> 
 
 Vamos verificar se a versão git do seu computado é a 2.33 ou superior. Caso não sejá, será necessaria atualizala, seguindo os passos abaixo.
 
 
-**Passo 2** - Digite o código abaixo, para saber qual a versão do seu git.
+### **Passo 2** <h3> - # Digite o código abaixo, para saber qual a versão do seu git. <p>
 
 ~~~Linux
 git --version
@@ -41,9 +41,9 @@ Para atualizar a versão será necessario primeiro desinstalarmos a atual.
 
 **Passo 3** - Digite o código abaixo para desinstalar o git atual. 
 
-´´´Linux
+```Linux
 sudo apt remove git
-´´´
+```
 
 Agora, vamos instalar a versão correta, adicionando o repositorio mais atualizado do git.
 
