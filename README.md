@@ -4,7 +4,7 @@ Language: Portugues Brazil
 
 # Introduação <h1>
 
-#Este repositorio é primeiro desafio do bootcamp eduzz conduzido pela "DIO"
+Este repositorio é primeiro desafio do bootcamp eduzz conduzido pela "DIO"
 
 #Objetivo desse desafio era criar o primeiro repositorio no github utilizando o git do meu computador.<p>
 
