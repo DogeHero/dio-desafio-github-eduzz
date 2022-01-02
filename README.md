@@ -137,7 +137,7 @@ Agora abra a pasta cloanada e coloque qualquer arquivo novo. Sejá pelo terminal
 Adicione esse novo arquivo, utilizando o código abaixo
 
 ```Linux
-gi add * 
+git add * 
 ```
 
 **Importante lembrar do colocar o espaço entre <em>add<em> e a <em>estrela<em>**
